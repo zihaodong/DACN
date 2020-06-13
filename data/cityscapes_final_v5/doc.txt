@@ -1,0 +1,1 @@
+Please [signup](http://www.cs.toronto.edu/annotation/curvegcn/code_signup/) here, you get the processed annotation files are included in the download.
