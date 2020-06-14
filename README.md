@@ -5,7 +5,7 @@ This is the PyTorch implementation of DACN. This repository allows you to train 
 
 ## The visual implement of Deep Active Curve Network (DACN) for instance annotation
 
-![](DACN_arch.png){zoom="10%"}
+<img src="DACN_arch.png" style="zoom:50%">
 
 ## Interactive instance annotation and segmentation
 
