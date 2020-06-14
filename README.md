@@ -11,7 +11,7 @@ This is the PyTorch implementation of DACN. This repository allows you to train 
 
 This system is based on the FLASK framework. Therefore, its structure is shown below:
 
-![](InterSystem_arch.png){zoom="10%"}
+<img src="InterSystem_arch.png" style="zoom:50%">
 
 
 ## Acknowledges
